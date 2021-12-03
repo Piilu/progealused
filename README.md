@@ -1,3 +1,5 @@
 <h1>Kodutööd</h1>
-- [ ] Katel
-- [ ] See teine 
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
