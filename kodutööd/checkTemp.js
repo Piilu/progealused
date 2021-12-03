@@ -16,4 +16,3 @@ function checkTemp(temp){
        return 0;
    }
 }
-checkTemp(80);
