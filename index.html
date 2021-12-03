@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tooted</title>
+</head>
+<body>
+    <h1>Lisa tood</h1>
+    <input id="Nimi" type="text" placeholder="Nimi"></br>
+    <input id="Hind" type="text" placeholder="Hind"></br>
+    <input id="Laos" type="text" placeholder="Laos"></br>
+    <button onclick="lisaToode()">Lisa toode</button>
+
+    <script>
+        let tooted = []
+    function lisaToode(){
+        let toode = {
+            nimi:document.getElementById("Nimi").value,
+            hind:document.getElementById("Nimi").value,
+            laos:document.getElementById("Laos").value,
+        }
+        document.getElementById("Nimi").value="";
+        document.getElementById("Hind").value="";
+        document.getElementById("Laos").value="";
+        tooted.push(toode);
+        console.log(tooted)
+}
+    </script>
+</body>
+</html>
