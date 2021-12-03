@@ -3,5 +3,5 @@
 //41-60 liiga külm   1
 
 function checkTemp(temp){
-    asd
+    
 }
