@@ -2,3 +2,4 @@
 <strong>Tehtud</strong>
 
 - Katel
+- Tähtede lugemine
