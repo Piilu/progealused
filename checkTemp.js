@@ -16,6 +16,3 @@ function checkTemp(temp){
    }
 
 }
-
-}
-

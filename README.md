@@ -3,3 +3,4 @@
 
 - Katel
 - Tähtede lugemine
+- orderSummary

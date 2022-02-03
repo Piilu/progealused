@@ -9,3 +9,4 @@ function countCode(letter){
     }
     console.log(count); 
     return count; //Polnud kindel kas oli vaja
+}
