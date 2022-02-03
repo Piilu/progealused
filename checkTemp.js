@@ -14,4 +14,8 @@ function checkTemp(temp){
        console.log("paras");
        return 0;
    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d6fb27ccc98643b046eec740352c6f74e9209d7c
